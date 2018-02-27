@@ -5,6 +5,14 @@ Code implementation of Project Pink
 Licensing under GPLv2, only for the codes inside the project. 
 External libraries follow their licensing.
 
+Frontend uses Morris.JS (http://morrisjs.github.io/morris.js/), specifically, version 0.5.0
+
+Tested on GNU/Linux:
+- CentOS 6.9
+- Apache 2.2.15
+- PHP 7.0.27
+- MariaDB 10.1.31
+
 Group 42:
 - Seppo Taskunen
 - Timo Ukonmaanaho
